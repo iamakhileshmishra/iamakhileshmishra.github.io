@@ -62,6 +62,10 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
+.dark-theme{
+--bs-primary-rgb: #000106;
+--bs-secondary-rgb: #fff;
+}
 
 *,
 *::before,
